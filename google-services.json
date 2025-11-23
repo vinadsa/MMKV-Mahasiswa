@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774184939312",
+    "project_id": "tugas-pbp-firebase-9b4fa",
+    "storage_bucket": "tugas-pbp-firebase-9b4fa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774184939312:android:79c4c470ef566029aa22f5",
+        "android_client_info": {
+          "package_name": "com.kevin.pbp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdzFUOS7iEssLn6wSvOzfkTcy6qxwGEas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
