@@ -26,6 +26,8 @@
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="login"/>
         <data android:scheme="exp+login"/>
+        <data android:scheme="mahasiswa"/>
+        <data android:scheme="exp+mahasiswa"/>
       </intent-filter>
     </activity>
   </application>

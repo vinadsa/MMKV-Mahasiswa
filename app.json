@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "login",
-    "slug": "login",
+    "name": "Mahasiswa",
+    "slug": "mahasiswa",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "login",
+    "scheme": "mahasiswa",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "android": {
